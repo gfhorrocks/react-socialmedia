@@ -1,0 +1,41 @@
+.postBody{
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 200px;
+    background-color: lightgray;
+    box-shadow: 2px 2px 4px blue;
+    padding: 3px;
+    font-size: small;
+    
+}
+
+.postTitle{
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+    border-radius: 10px;
+    width: 400px;
+    font-size: 20px;
+    background-color: grey;
+    color: white;
+    box-shadow: 2px 2px 4px blue;
+    padding: 3px;
+
+}
+
+.postAuthor{
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+    border-radius: 10px;
+    background-color: lightgray;
+    width: 400px;
+    box-shadow: 2px 2px 4px blue;
+    padding: 3px;
+    text-align: left;
+
+}
